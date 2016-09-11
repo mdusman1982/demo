@@ -7,3 +7,5 @@ Updated file on the branch
 
 Modified
 This is going to cause conflict
+
+Modiifed
